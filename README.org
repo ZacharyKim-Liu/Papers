@@ -1,1 +1,143 @@
 # Papers
+
+:PROPERTIES:
+:ID:       4C23F0BD-362D-4153-A1F3-8E179A33FF19
+:mtime:    20240914122852
+:ctime:    20240914115641
+:END:
+#+title: Serverless Computing
+* Table of Contents :toc_2_gh:
+- [[#trace][Trace]]
+- [[#bench][Bench]]
+- [[#cold-start][Cold Start]]
+  - [[#security][Security]]
+
+* Trace
+*** [[https://www.usenix.org/conference/atc20/presentation/shahrad][Serverless in the wild: Characterizing and optimizing the serverless workload at a large cloud provider]]
++ BibTex:
++ Conference:
++ Cited by: 610 [2024-09-22]
++ [[][Source code]]
+* Bench
+*** [[https://dl.acm.org/doi/10.1145/3419111.3421280][Characterizing serverless platforms with serverlessbench]]
++ BibTex:
++ Conference: SOCC
++ Cited by: 200 [2024-09-22]
++ [[https://github.com/SJTU-IPADS/ServerlessBench][Source code]]
+
+  
+* Cold Start
+*** [[https://dl.acm.org/doi/10.1145/3617232.3624871][RainbowCake: Mitigating Cold-starts in Serverless with Layer-wise Container Caching and Sharing]]
++ BibTex: [[id:4B9E12AA-E6BA-4E0C-91B0-EC3771E7DFBE][yu2024rainbowcake]]
++ Conference: Asplos 24
++ Cited by: 4 [2024-09-14]
++ [[][Source code]]
+
+*** [[https://www.usenix.org/conference/atc19/presentation/fouladi][From Laptop to Lambda:Outsourcing Everyday Jobs to Thousands of Transient Functional Containers]]
++ BibTex:
++ Conference: ATC 2019
++ Cited by: 248 [2024-09-15]
++ [[][Source code]]
+
+*** [[https://dl.acm.org/doi/10.1145/3419111.3421277][Kappa: A Programming Framework for Serverless Computing]]
++ BibTex: [[id:5FC0139F-2EFF-4C28-9A8F-A52138D9EB5E][zhang2020kappa]]
++ Conference: SOCC 2020
++ Cited by: 82 [2024-09-15]
++ [[][Source code]]
+
+*** [[https://www.usenix.org/conference/nsdi24/presentation/zhang-zili-jolteon][Jolteon: Unleashing the Promise of Serverless for Serverless Workflows]]
++ BibTex: [[id:AF8B2904-8B37-404B-BB76-CCD9495D81E7][zhang2024jolteon]]
++ Conference: NSDI 2024
++ Cited by: 1 [2024-09-15]
++ [[][Source code]]
+
+*** [[https://www.usenix.org/conference/osdi22/presentation/mahgoub][ORION and the Three Rights: Sizing, Bundling, and Prewarming for Serverless DAGs]]
++ BibTex:
++ Conference: OSDI 2022
++ Cited by: 81 [2024-09-16]
++ [[][Source code]]
+
+*** [[https://dl.acm.org/doi/10.1145/3582016.3582063][Tpp: Transparent page placement for cxl-enabled tiered-memory]]
++ BibTex: [[id:B8D4C6EC-D343-45B4-B9AC-76CE77A44A81][maruf2023tpp]]
++ Conference: ASPLOS 2023
++ Cited by: 156 [2024-09-17]
++ [[][Source code]]
+
+*** [[https://dl.acm.org/doi/10.1145/3600006.3613167][Memtis: Efficient memory tiering with dynamic page classification and page size determination]]
++ BibTex: [[id:24F928F2-DFA2-465A-A2A8-F81DE5F5D275][lee2023memtis]]
++ Conference: SOSP 2023
++ Cited by: 20 [2024-09-17]
++ [[https://github.com/cosmoss-jigu/memtis][Source code]]
+
+*** [[https://www.usenix.org/conference/atc17/technical-sessions/presentation/amit][Optimizing the TLB Shootdown Algorithm with Page Access Tracking]]
++ BibTex:
++ Conference: ATC 2017
++ Cited by: 96 [2024-09-18]
++ [[][Source code]]
+
+*** [[https://www.usenix.org/conference/osdi24/presentation/chen-lei][A Tale of Two Paths: Toward a Hybrid Data Plane for Efficient Far-Memory Applications]]
++ BibTex:[[id:7B734F2F-B6A5-441A-B7A2-735FE653EDD2][chen2024tale]]
++ Conference: OSDI 2024
++ Cited by: 0 [2024-09-20]
++ [[][Source code]]
+
+*** [[https://www.usenix.org/conference/nsdi23/presentation/qiao][Hermit: Low-Latency, High-Throughput, and Transparent Remote Memory via Feedback-Directed Asynchrony]]
++ BibTex: [[id:67686589-F6AA-43B8-A184-044C91C7EAB5][qiao2023hermit]]
++ Conference: NSDI 2023
++ Cited by: 19 [2024-09-20]
++ [[][Source code]]
+
+*** [[https://www.usenix.org/conference/atc24/presentation/tabatabai][FBMM: Making Memory Management Extensible With Filesystems]]
++ BibTex:
++ Conference: ATC 2024
++ Cited by: 0 [2024-09-20]
++ [[][Source code]]
+
+*** [[https://www.usenix.org/conference/osdi20/presentation/ruan][AIFM: High-Performance, Application-Integrated Far Memory]]
++ BibTex:
++ Conference: OSDI 2020
++ Cited by: 193 [2024-09-20]
++ [[][Source code]]
+
+*** [[https://www.usenix.org/conference/atc24/presentation/xu-dong][FlexMem: Adaptive Page Profiling and Migration for Tiered Memory]]
++ BibTex: [[id:F5CE2620-5307-4E6E-8E0A-678180EA0285][xu2024flexmem]]
++ Conference:
++ Cited by: 0 [2024-09-20]
++ [[][Source code]]
+
+*** [[https://dl.acm.org/doi/10.1145/3575693.3578835][Pond: CXL-Based Memory Pooling Systems for Cloud Platforms]]
++ BibTex: [[id:928CECC1-02C7-4D48-AF47-547998928B03][li2023pond]]
++ Conference: Asplos 2023
++ Cited by: 217 [2024-09-22]
++ [[https://github.com/MoatLab/Pond][Source code]]
+
+*** [[https://dl.acm.org/doi/10.1145/3503222.3507750][IceBreaker: Warming Serverless Functions Better with Heterogeneity]]
++ BibTex: [[id:5B494E2D-14E1-4BC5-90B4-AA2B197E0BE4][roy2022icebreaker]]
++ Conference: Asplos 2022
++ Cited by: 101 [2024-09-22]
++ [[][Source code]]
+
+*** [[https://dl.acm.org/doi/10.1145/3445814.3446757][FaasCache: keeping serverless computing alive with greedy-dual caching]]
++ BibTex:
++ Conference:
++ Cited by: 175 [2024-09-22]
++ [[][Source code]]
+
+*** [[https://www.usenix.org/conference/osdi23/presentation/wei-rdma][No Provisioned Concurrency: Fast RDMA-codesigned Remote Fork for Serverless Computing]]
++ BibTex: [[id:2A3D2F58-5521-429A-B4EE-C5930995355E][wei2023no]]
++ Conference: OSDI 2023
++ Cited by: 24 [2024-09-24]
++ [[https://github.com/ProjectMitosisOS][Source code]]
+
+*** [[][Faastlane: Accelerating function-as-a-service workflows]]
++ BibTex:
++ Conference:
++ Cited by: 97 [2024-09-24]
++ [[][Source code]]
+
+** Security
+*** [[https://dl.acm.org/doi/10.1145/3652024.3665509][Supporting Trusted Virtual Machines with Hardware-Based Secure Remote Memory]]
++ BibTex: [[id:FEF8408E-C424-48C1-9AF9-770C3EBE3D84][heo2024supporting]]
++ Conference: ISMM 2024
++ Cited by: 0 [2024-09-21]
++ [[][Source code]]
