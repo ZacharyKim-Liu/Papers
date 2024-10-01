@@ -12,14 +12,7 @@
 * Weekly
 * Papers
 
-* DONE [[file:~/Org-roam/Org-projects/20240914115641-serverless_computing.org::*\[\[https://dl.acm.org/doi/10.1145/3373376.3378512\]\[Catalyzer: Sub-millisecond Startup for Serverless Computing with Initialization-less Booting\]\]][Catalyzer: Sub-millisecond Startup for Serverless Computing with Initialization-less Booting]] :paper:read:
-CLOSED: [2024-09-30 Mon 18:28] SCHEDULED: <2024-09-30 Mon 16:30-18:30>
-:PROPERTIES:
-:CAPTURED: [2024-09-30 Mon 16:23]
-:Effort:   2:00
-:END:
+* DONE [[https://dl.acm.org/doi/10.1145/3373376.3378512][Catalyzer: Sub-millisecond Startup for Serverless Computing with Initialization-less Booting]]
 :LOGBOOK:
-- State "DONE"       from "TODO"       [2024-09-30 Mon 18:28] \\
-  Done
 CLOCK: [2024-09-30 Mon 16:29]--[2024-09-30 Mon 18:26] =>  1:57
 :END:
