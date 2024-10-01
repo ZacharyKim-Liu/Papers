@@ -16,3 +16,10 @@
 :LOGBOOK:
 CLOCK: [2024-09-30 Mon 16:29]--[2024-09-30 Mon 18:26] =>  1:57
 :END:
+
+
+ - [X] [[https://ieeexplore.ieee.org/document/10202608][Āpta: Fault-tolerant object-granular CXL disaggregated memory for accelerating FaaS]]
+ - BibTex:
+ - Conference: DSN 2023
+ - Created: [2024-09-30 23:35:12]
+ - Cited by: 4 [2024-09-30]
