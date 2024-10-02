@@ -1,1 +1,2 @@
+[[./weekly.org][weekly]]
 [[./20240930234433-papers.org][papers]]
