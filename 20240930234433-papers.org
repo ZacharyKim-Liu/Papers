@@ -3,7 +3,25 @@
 :END:
 #+title: papers
 
-*** [[https://dl.acm.org/doi/10.1145/3472883.3486974][Faa$t: A transparent auto-scaling cache for serverless applications]]
+* [[https://www.usenix.org/conference/atc18/presentation/wang-liang][Peeking Behind the Curtains of Serverless Platforms]]
++ BibTex:
++ Conference: ATC 2018
++ Created: [2024-10-02 Wed 22:25]
++ Cited by: 700 [2024-10-02 Wed 22:25]
+
+* [[https://dl.acm.org/doi/10.1145/3627703.3629579][Characterization and Reclamation of Frozen Garbage in Managed FaaS Workloads]]
++ BibTex:
++ Conference: EuroSys 2024
++ Created: [2024-10-02 19:32:08]
++ Cited by: 0 [2024-10-02]
+
+* [[https://www.usenix.org/conference/atc20/presentation/shahrad][Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider]]
++ BibTex:
++ Conference: ATC 2020
++ Created: [2024-10-02 09:57:06]
++ Cited by: 610 [2024-10-02]
+
+* [[https://dl.acm.org/doi/10.1145/3472883.3486974][Faa$t: A transparent auto-scaling cache for serverless applications]]
 + BibTex:
 + Conference: SOCC 2022
 + Created: [2024-10-01 13:02:49]
@@ -56,3 +74,5 @@
 + Conference: Asplos 2020
 + Created: [2024-09-30 13:10:30]
 + Cited by: 268 [2024-09-30]
+
+
