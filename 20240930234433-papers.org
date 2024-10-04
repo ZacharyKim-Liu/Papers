@@ -1,7 +1,15 @@
 :PROPERTIES:
 :ID:       6BA815D7-6F30-4E06-A199-F2E57D977E81
+:mtime:    20241004012824 20241003220450 20241003160707 20241003013637
+:ctime:    20240930234433
 :END:
 #+title: papers
+
+* [[https://dl.acm.org/doi/10.1145/117954.117957][Using key object opportunism to collect old objects]]
++ BibTex:
++ Conference: OOPSLA 1991
++ Created: [2024-10-03 Thu 22:03]
++ Cited by: 120 [2024-10-03 Thu 22:03]
 
 * [[https://www.usenix.org/conference/atc18/presentation/wang-liang][Peeking Behind the Curtains of Serverless Platforms]]
 + BibTex:
@@ -10,7 +18,7 @@
 + Cited by: 700 [2024-10-02 Wed 22:25]
 
 * [[https://dl.acm.org/doi/10.1145/3627703.3629579][Characterization and Reclamation of Frozen Garbage in Managed FaaS Workloads]]
-+ BibTex:
++ BibTex: [[id:E189C3C8-4F9A-44FD-BE2F-4FF37E22CF71][zhao2024characterization]]
 + Conference: EuroSys 2024
 + Created: [2024-10-02 19:32:08]
 + Cited by: 0 [2024-10-02]
@@ -63,11 +71,11 @@
 + Created: [2024-10-01 12:26:23]
 + Cited by: 32 [2024-10-01]
 
-* [[https://ieeexplore.ieee.org/document/10202608][Āpta: Fault-tolerant object-granular CXL disaggregated memory for accelerating FaaS]]
-+ BibTex: [[id:1B49671C-A63C-405F-9EC5-E2644D9C9730][patil2023apta]]
-+ Conference: DSN 2023
-+ Created: [2024-09-30 23:35:12]
-+ Cited by: 4 [2024-09-30]
+* [[https://www.usenix.org/conference/atc21/presentation/kotni][Faastlane: Accelerating function-as-a-service workflows]]
++ BibTex:
++ Conference:
++ Created: [2024-09-30 09:08:17]
++ Cited by:  [2024-09-30]
 
 * [[https://dl.acm.org/doi/10.1145/3373376.3378512][Catalyzer: Sub-millisecond Startup for Serverless Computing with Initialization-less Booting]]
 + BibTex: [[id:12DC807F-A5D9-4483-9B57-DBBF5A65546D][du2020catalyzer]]
@@ -75,4 +83,15 @@
 + Created: [2024-09-30 13:10:30]
 + Cited by: 268 [2024-09-30]
 
+* [[https://ieeexplore.ieee.org/document/10202608][Āpta: Fault-tolerant object-granular CXL disaggregated memory for accelerating FaaS]]
++ BibTex: [[id:1B49671C-A63C-405F-9EC5-E2644D9C9730][patil2023apta]]
++ Conference: DSN 2023
++ Created: [2024-09-30 23:35:12]
++ Cited by: 4 [2024-09-30]
+
+* [[https://dl.acm.org/doi/10.1145/3623278.3624769][Flame: A Centralized Cache Controller for Serverless Computing]]
++ BibTex: [[id:770809D1-B92A-43D4-BBC2-41A77FFF7F87][yang2024flame]]
++ Conference: Asplos 2023
++ Created: [2024-09-29 01:15:54]
++ Cited by: 0 [2024-09-29]
 
